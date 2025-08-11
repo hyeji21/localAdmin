@@ -46,6 +46,9 @@
 ---
 
 ## 기획서보러가기
+<a href="https://github.com/hyeji21/localAdmin/issues/1#issue-3308284286">
+  <img width="1114" height="625" alt="Image" src="https://github.com/hyeji21/localAdmin/issues/1#issuecomment-3173135867" />
+</a>
 ---
 
 ## 워크플로우
