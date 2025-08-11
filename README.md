@@ -1,5 +1,3 @@
-# localAdmin
-
 # 주민센터 관리자 대시보드 스프링 프로젝트 (Java + Spring Legacy + Oracle)
 
 
@@ -47,8 +45,9 @@
 
 ## 기획서보러가기
 <a href="https://github.com/hyeji21/localAdmin/issues/1#issue-3308284286">
-  <img width="1114" height="625" alt="Image" src="https://github.com/hyeji21/localAdmin/issues/1#issuecomment-3173135867"/>
+  <img width="994" height="557" alt="admin" src="https://github.com/user-attachments/assets/dfcf0b53-47b5-48f2-bb42-e28a15ba7d69" />  
 </a>
+
 ---
 
 ## 워크플로우
