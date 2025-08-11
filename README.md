@@ -43,10 +43,8 @@
 
 ---
 
-## 기획서보러가기
-<a href="https://github.com/hyeji21/localAdmin/issues/1#issue-3308284286">
-  <img width="994" height="557" alt="admin" src="https://github.com/user-attachments/assets/dfcf0b53-47b5-48f2-bb42-e28a15ba7d69" />  
-</a>
+## 📄 기획서 보기
+[![기획서 보기](https://img.shields.io/badge/📄_기획서-바로가기-blue?style=for-the-badge)](https://github.com/hyeji21/localAdmin/issues/1#issue-3308284286)
 
 ---
 
