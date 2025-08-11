@@ -48,5 +48,20 @@
 
 ---
 
-## 워크플로우
+## 시연영상
+- **로그인 기능
+<video src="https://github.com/user-attachments/assets/6e2dd045-5466-4fca-a313-46f2d3e53234" controls width="600"></video>**
+- **공지게시판 기능
+<video src="https://github.com/user-attachments/assets/10615f0e-c3b6-45a5-bb29-1eafbc9e58f2" controls width="600"></video>**
+- **대시보드 기능
+<video src="https://github.com/user-attachments/assets/6972b4b2-29d2-4f3c-9bed-41ab1195ea45" controls width="600"></video>**
+- **민원게시판 기능
+<video src="https://github.com/user-attachments/assets/36920ec2-2069-4372-a616-1844842bfb20" controls width="600"></video>**
+- **민원사항 댓글 기능
+<video src="https://github.com/user-attachments/assets/73e8973a-cc54-4ff0-b1ec-2705ea5d19a5" controls width="600"></video>**
+- **주민게시판 기능
+<video src="https://github.com/user-attachments/assets/caafe4a0-9058-447d-a1e5-4ab6cbd5733b" controls width="600"></video>**
+
+---
+
 
