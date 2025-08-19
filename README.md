@@ -49,7 +49,7 @@
 ---
 
 ## 실행
-- [PC에서 보기](http://hyeji21.dothome.co.kr/001_local_admin/mockup.html)
+- [PC에서 보기](http://hyeji21.dothome.co.kr/001_local_admin/demo.html)
 
 ---
 
