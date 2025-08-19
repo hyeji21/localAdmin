@@ -48,6 +48,11 @@
 
 ---
 
+## 실행
+- [PC에서 보기](http://hyeji21.dothome.co.kr/001_local_admin/mockup.html)
+
+---
+
 ## 시연영상
 - **로그인 기능
 <video src="https://github.com/user-attachments/assets/6e2dd045-5466-4fca-a313-46f2d3e53234" controls width="600"></video>**
